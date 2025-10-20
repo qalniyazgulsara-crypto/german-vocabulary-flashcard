@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-fuchsia-50 via-indigo-50 to-cyan-50 text-gray-900;
+    font-family: 'Poppins', ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Apple Color Emoji', 'Segoe UI Emoji';
+  }
+}
+
+@layer utilities {
+  .perspective { perspective: 1000px; }
+  .preserve-3d { transform-style: preserve-3d; }
+  .backface-hidden { backface-visibility: hidden; }
+  .rotate-y-180 { transform: rotateY(180deg); }
+  .kahoot-card {
+    @apply rounded-2xl border-2 border-black/10 shadow-[0_8px_0_#00000022] hover:shadow-[0_12px_0_#00000022] transition-all bg-white;
+  }
+  .kahoot-button {
+    @apply rounded-xl font-semibold text-white shadow-[0_6px_0_#00000033] active:translate-y-0.5 active:shadow-[0_3px_0_#00000033];
+  }
+  @keyframes slide-left { from { opacity: 0; transform: translateX(24px); } to { opacity: 1; transform: translateX(0); } }
+  @keyframes slide-right { from { opacity: 0; transform: translateX(-24px); } to { opacity: 1; transform: translateX(0); } }
+  .animate-slide-left { animation: slide-left 300ms ease both; }
+  .animate-slide-right { animation: slide-right 300ms ease both; }
+}
