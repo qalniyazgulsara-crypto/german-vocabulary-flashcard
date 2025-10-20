@@ -1,0 +1,23 @@
+﻿# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+
+# Node
+**/node_modules/
+**/.vite/
+
+# Client build/env
+client/dist/
+client/.env.local
+
+# Server runtime data
+server/data/*.json
+!server/data/.gitkeep
+server/users.json
+
+# Editor
+.vscode/
+.idea/

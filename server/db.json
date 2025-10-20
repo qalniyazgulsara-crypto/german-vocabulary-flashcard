@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "id": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "username": "dias",
+      "passwordHash": "$2a$10$zWDA0L9u7X0mW2M7hjXJF.pzhXdjz1Uf9wTBXBovsQX3EX8Slui8K",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "username": "jjjjj",
+      "passwordHash": "$2a$10$qSqTjsPB3a.NASnVsk42I.IoFe5Y7Irru0KZgk//1f3bAUluUQzGe",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "username": "dias1",
+      "passwordHash": "$2a$10$2QEtMjLVYXACVL2Ko7U99eBS0wt.TGH.oq.Y7BTqEcfEn.TuobBXq",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "d36a1be4-ef67-491b-8cf9-fa5da64a2471",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "name": "Food",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "2f44b112-d611-4da2-838b-120de1f6b3cc",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "name": "Furniture",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "c7ae25b3-3514-42e4-b844-7fe8c95da9c2",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "name": "Хуйня",
+      "createdAt": "2025-10-13T16:10:54.819Z"
+    },
+    {
+      "id": "b8e72247-14cf-4980-a587-efcd33d886ff",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "name": "Food | Еда | Ас",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "9064cb67-270f-4235-bb51-a64da4874fbc",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "name": "Furniture | Мебель | Жиһаз",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "51d8ff56-6efb-42c9-80d1-c2100b600097",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "name": "jhkjh",
+      "createdAt": "2025-10-13T16:15:19.015Z"
+    },
+    {
+      "id": "5e6f5210-a79e-4fc3-9cbc-7501710ad668",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "name": "Food | Еда | Ас",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "544619e1-6167-4726-96ec-ef65f8c104d7",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "name": "Furniture | Мебель | Жиһаз",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "6dd883c7-6ef2-43ee-a0cf-a4ba2571d7dd",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "d36a1be4-ef67-491b-8cf9-fa5da64a2471",
+      "word": "Brot",
+      "translation": "Нан",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "ead69fb0-e17e-4faf-8fb3-b8f068cc8370",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "d36a1be4-ef67-491b-8cf9-fa5da64a2471",
+      "word": "Apfel",
+      "translation": "Алма",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "1880e7d9-448d-44bf-aa22-4e7350a5ea95",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "d36a1be4-ef67-491b-8cf9-fa5da64a2471",
+      "word": "Wasser",
+      "translation": "Су",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "416a29d8-ae80-4964-aa49-ecd3904e1a1a",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "2f44b112-d611-4da2-838b-120de1f6b3cc",
+      "word": "Stuhl",
+      "translation": "Орындық",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "79a31876-1094-447d-8871-68c60710a75e",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "2f44b112-d611-4da2-838b-120de1f6b3cc",
+      "word": "Tisch",
+      "translation": "Үстел",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "7e82bb4e-66f9-484d-8be6-90b70f90aec5",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "2f44b112-d611-4da2-838b-120de1f6b3cc",
+      "word": "Bett",
+      "translation": "Төсек",
+      "createdAt": "2025-10-13T16:10:30.689Z"
+    },
+    {
+      "id": "fa9f3992-1abc-48e8-895f-7cbcfbc2ef7e",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "d36a1be4-ef67-491b-8cf9-fa5da64a2471",
+      "word": "asd",
+      "translation": "asd",
+      "createdAt": "2025-10-13T16:10:45.585Z"
+    },
+    {
+      "id": "fccca5a5-fe46-4961-99be-001edd3c1414",
+      "userId": "53ef0f77-7e65-48bd-adf9-ea4fdc157154",
+      "categoryId": "c7ae25b3-3514-42e4-b844-7fe8c95da9c2",
+      "word": "Stuhl",
+      "translation": "Стул",
+      "createdAt": "2025-10-13T16:11:01.196Z"
+    },
+    {
+      "id": "25192526-54b7-4ef2-a71c-33fd53c72a49",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "b8e72247-14cf-4980-a587-efcd33d886ff",
+      "word": "Brot",
+      "translation": "Нан",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "c55d0502-a5e5-4d42-aac0-760817b665cc",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "b8e72247-14cf-4980-a587-efcd33d886ff",
+      "word": "Apfel",
+      "translation": "Алма",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "c490287d-97a7-4ee6-950b-a1c3ad57cbbc",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "b8e72247-14cf-4980-a587-efcd33d886ff",
+      "word": "Wasser",
+      "translation": "Су",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "2c55d359-7809-4e16-971f-8bcc934107d9",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "9064cb67-270f-4235-bb51-a64da4874fbc",
+      "word": "Stuhl",
+      "translation": "Орындық",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "bde0d4b6-c74f-49e6-9bba-604dc7ca0331",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "9064cb67-270f-4235-bb51-a64da4874fbc",
+      "word": "Tisch",
+      "translation": "Үстел",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "06b38547-2b83-4ff1-8d81-fb34e136989d",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "9064cb67-270f-4235-bb51-a64da4874fbc",
+      "word": "Bett",
+      "translation": "Төсек",
+      "createdAt": "2025-10-13T16:15:06.508Z"
+    },
+    {
+      "id": "cad6ac58-5a81-4df5-bed6-344b2fbbba4a",
+      "userId": "ae2f6df5-4555-4c81-a13e-437eb1dbf261",
+      "categoryId": "51d8ff56-6efb-42c9-80d1-c2100b600097",
+      "word": "kjlkj",
+      "translation": "олрплр",
+      "createdAt": "2025-10-13T16:15:29.474Z"
+    },
+    {
+      "id": "54cd9e45-cfc0-40f6-b16d-f05a4f905f1d",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "5e6f5210-a79e-4fc3-9cbc-7501710ad668",
+      "word": "Brot",
+      "translation": "Нан",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "8d4dbe18-f5d7-4432-a78c-cada648e0cc2",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "5e6f5210-a79e-4fc3-9cbc-7501710ad668",
+      "word": "Apfel",
+      "translation": "Алма",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "a89fdaa7-98a1-4930-af19-8a894163128c",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "5e6f5210-a79e-4fc3-9cbc-7501710ad668",
+      "word": "Wasser",
+      "translation": "Су",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "22ff6e98-50e2-4b5e-bb82-c850311f949a",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "544619e1-6167-4726-96ec-ef65f8c104d7",
+      "word": "Stuhl",
+      "translation": "Орындық",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "86b26ae9-edce-4aee-a80d-fd39e3fa853b",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "544619e1-6167-4726-96ec-ef65f8c104d7",
+      "word": "Tisch",
+      "translation": "Үстел",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    },
+    {
+      "id": "599a7289-98cb-44ab-b428-8bc72f562e09",
+      "userId": "e7e29751-91f6-4402-a1e8-083ed0e0c6c3",
+      "categoryId": "544619e1-6167-4726-96ec-ef65f8c104d7",
+      "word": "Bett",
+      "translation": "Төсек",
+      "createdAt": "2025-10-13T16:23:06.562Z"
+    }
+  ]
+}
