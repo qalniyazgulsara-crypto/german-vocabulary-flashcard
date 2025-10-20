@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "e74a1df5-c432-4f73-a7b3-64f41c9b000d",
+      "username": "gulsara",
+      "passwordHash": "$2a$10$l5kox9g6FakImXhslSSjEeAOaQ8XjqlLXH016Acv6gj.hVo9o4VBu",
+      "createdAt": "2025-10-15T04:19:39.558Z"
+    },
+    {
+      "id": "a437a67f-be8e-45f9-aba3-962975acb686",
+      "username": "129837",
+      "passwordHash": "$2a$10$3I/./f88qk8zL2JC6coxZeey5eORE68BSqjtpIhnKBZKFrtHJFbt.",
+      "createdAt": "2025-10-15T04:23:05.495Z"
+    },
+    {
+      "id": "bb656e4d-6c13-4cdc-9a05-634a54d4f82f",
+      "username": "togzhan",
+      "passwordHash": "$2a$10$nIkkKtn/SEvcjmwBnpF//udvt0R7j7eTzJkYJy5.wRaN7E9jtmYTm",
+      "createdAt": "2025-10-15T04:35:33.103Z"
+    },
+    {
+      "id": "2b996df3-a6e6-4958-9087-acfd98e9430c",
+      "username": "AIDANA",
+      "passwordHash": "$2a$10$udRMxGsjAhd0DInn4fB88OHJzsM.2BPtSOpyVnwL.7urRxy9Eg4sC",
+      "createdAt": "2025-10-15T06:19:15.731Z"
+    },
+    {
+      "id": "6236037b-3516-4c7a-8f42-4fc9075e1bf6",
+      "username": "AKBAYAN",
+      "passwordHash": "$2a$10$n.5STw6holvYbr7F6p1TNuscU9cq8ENdF98sA.Z.cf.46NcfGo6CG",
+      "createdAt": "2025-10-15T06:20:28.515Z"
+    }
+  ]
+}

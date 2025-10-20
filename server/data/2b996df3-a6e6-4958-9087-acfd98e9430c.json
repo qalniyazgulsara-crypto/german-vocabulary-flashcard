@@ -1,0 +1,194 @@
+{
+  "categories": [
+    {
+      "id": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "name": "Food | Еда | Ас",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "name": "Furniture | Мебель | Жиһаз",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "name": "Travel | Путешествия | Саяхат",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "name": "Animals | Животные | Жануарлар",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "250a5b08-57ec-4906-b4d8-0ed329fc4bba",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Brot",
+      "translation": "Нан",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "f01495a7-3ec8-4731-80c7-fd8d33a2920d",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Apfel",
+      "translation": "Алма",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "6d36e280-adde-4ec4-a7b4-e416c7288634",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Wasser",
+      "translation": "Су",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "86d17700-d706-49e4-b70a-d40d633b3b81",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Käse",
+      "translation": "Ірімшік",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "b706786d-3b30-471b-a435-6321d450e232",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Milch",
+      "translation": "Сүт",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "b582a624-c269-4a20-aa2e-805bc5d08c0b",
+      "categoryId": "690945c5-2554-4437-aa39-805c8cd2b60a",
+      "word": "Suppe",
+      "translation": "Сорпа",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "1c02f803-1e15-4668-bce2-f362ecbd3fd1",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Stuhl",
+      "translation": "Орындық",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "2894a69c-041e-4762-b12c-33482231c039",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Tisch",
+      "translation": "Үстел",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "ffe5cd13-946a-44fc-9144-0958b3e574ee",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Bett",
+      "translation": "Төсек",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "9c60316c-4d0f-4411-8129-f53d4ce68aae",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Schrank",
+      "translation": "Шкаф",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "c66bb238-8943-4d98-8ed6-275624d34c2f",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Sofa",
+      "translation": "Диван",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "4e27d657-1563-42a2-b3b4-a7b1d612a082",
+      "categoryId": "d09a7d48-10d1-4df7-8dfe-b0043fb6e3ff",
+      "word": "Lampe",
+      "translation": "Шам",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "c59d19d3-9cc5-4ec2-99c8-fb9f86286897",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Bahnhof",
+      "translation": "Вокзал",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "a0a439e0-04a0-491e-89fb-581b19a990b9",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Flughafen",
+      "translation": "Әуежай",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "8d546d2f-7bd1-4074-b26e-4cf33b366353",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Ticket",
+      "translation": "Билет",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "5d2ed6f6-1c7d-4566-b4c9-9e342c4b17e1",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Karte",
+      "translation": "Карта",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "5817dfac-5662-4734-96ba-b0688be0f0bf",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Hotel",
+      "translation": "Қонақүй",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "8dbff8bc-7265-4898-87a1-ed81c9352c74",
+      "categoryId": "c5d00a62-8092-42f8-b5e6-b400762d0fe1",
+      "word": "Bus",
+      "translation": "Автобус",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "0893ff0d-c9b9-4d74-97c3-3fd02e0bf4cb",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Hund",
+      "translation": "Ит",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "ad804e02-8aeb-48ae-bc28-3bb6b12d58a5",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Katze",
+      "translation": "Мысық",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "97a999f6-48d5-448b-9e04-0707969e47c1",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Vogel",
+      "translation": "Құс",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "263ec361-2b32-47a6-bc33-04e1d8f6d23a",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Pferd",
+      "translation": "Жылқы",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "05ec1fba-2db8-40fe-becf-4e136795ebc3",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Fisch",
+      "translation": "Балық",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    },
+    {
+      "id": "d9d65465-7d86-4caa-af50-1d13fa46bd60",
+      "categoryId": "aacccc1b-1816-4fbb-9582-bf3498738812",
+      "word": "Schaf",
+      "translation": "Қой",
+      "createdAt": "2025-10-15T06:19:15.736Z"
+    }
+  ]
+}
